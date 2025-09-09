@@ -21,7 +21,7 @@ Download it and place it inside the `models/` folder before running the notebook
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/YourUsername/malnutrition-prediction.git
+   git clone https://github.com/Jayy268/Malnutrition-Risk-Prediction.git
    cd malnutrition-prediction
    
 2. **Install dependencies**
