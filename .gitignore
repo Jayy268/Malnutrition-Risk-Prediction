@@ -20,7 +20,6 @@ gradio_cached_examples/
 # --- Logs ---
 *.log
 
-# --- System/Editor Specific ---
 .DS_Store
 Thumbs.db
 .vscode/
