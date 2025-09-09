@@ -1,4 +1,27 @@
-__pycache__/
+
 .ipynb_checkpoints/
-.DS_Store
+
+venv/
+.env/
+
+data/
+*.csv
+
+*.pkl
+*.joblib
+*.sav
+
+__pycache__/
 *.pyc
+*.pyo
+
+gradio_cached_examples/
+
+# --- Logs ---
+*.log
+
+# --- System/Editor Specific ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
