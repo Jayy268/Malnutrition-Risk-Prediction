@@ -22,7 +22,7 @@ Download it and place it inside the `models/` folder before running the notebook
 1. **Clone this repository**
    ```bash
    git clone https://github.com/Jayy268/Malnutrition-Risk-Prediction.git
-   cd malnutrition-prediction
+   cd Malnutrition-Risk-Prediction
    
 2. **Install dependencies**
    ```bash
@@ -32,9 +32,7 @@ Download it and place it inside the `models/` folder before running the notebook
     From Releases
     Place it in the models/ folder.
 4. **Run the Gradio app**
-    ```bash
-    python app/gradio_app.py
-
+    
 
 ## 🛠 Tech Stack
 
